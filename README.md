@@ -1,6 +1,6 @@
   # Jonathan Putney
 
-  **Raleigh, NC** &nbsp;·&nbsp; [me.putney.io](https://me.putney.io) &nbsp;·&nbsp; [resume](https://resume.putney.io) &nbsp;·&nbsp; [jonathan@putney.io](mailto:jonathan@putney.io)
+  **Raleigh, NC** &nbsp;·&nbsp; [me.putney.io](https://me.putney.io) &nbsp;·&nbsp; [cv](https://cv.putney.io) &nbsp;·&nbsp; [jonathan@putney.io](mailto:jonathan@putney.io)
 
   > Builder of platforms, libraries, internal tools.
 
@@ -56,7 +56,7 @@
 ## Elsewhere
 
 - **Personal site** &nbsp;·&nbsp; [me.putney.io](https://me.putney.io)
-- **Resume** &nbsp;·&nbsp; [resume.putney.io](https://resume.putney.io)
+- **CV** &nbsp;·&nbsp; [cv.putney.io](https://cv.putney.io)
 - **LinkedIn** &nbsp;·&nbsp; [@jonathan.putney](https://linkedin.com/in/jonathan.putney)
 - **Email** &nbsp;·&nbsp; [jonathan@putney.io](mailto:jonathan@putney.io)
 
