@@ -13,8 +13,7 @@
   ## What I'm building right now
 
   - **[Ratchet](https://ratchet.run)** — a CDI-native Jakarta EE job scheduler I build in the open. Persistent jobs, retries, batches, workflows, human-in-the-loop signals. Inject one service, submit a method reference. v0.1.1 just landed on Maven Central
-- **Agentic AI infrastructure** for regulated SaaS — RAG with Amazon Titan + S3 Vectors, multi-judge quality pipeline (Claude + Nova), WebSocket event streaming, responsible-AI guardrails, ISO/IEC 42001 alignment
-  - **Document converter rewrite** in **Rust**, purpose-built to replace a prohibitively-priced vendor dependency
+  - **Agentic AI infrastructure** for regulated SaaS — RAG with Amazon Titan + S3 Vectors, multi-judge quality pipeline (Claude + Nova), WebSocket event streaming, responsible-AI guardrails, ISO/IEC 42001 alignment
   - **Compliance, still** — SOC 2 Type II cleared in Q1 2026, ISO/IEC 42001 and the next FDA validation cycle are up next
 
   ---
@@ -24,10 +23,10 @@
   | Project | Stars | Language | What it does |
   |---|---|---|---|
   | **[scorm-again](https://github.com/jcputney/scorm-again)** | [![](https://img.shields.io/github/stars/jcputney/scorm-again?style=flat&label=&color=b58900)](https://github.com/jcputney/scorm-again/stargazers) | TypeScript | Modern SCORM 1.2 / 2004 runtime library. v3.0 shipped Dec '25 with a complete SCORM 2004 sequencing engine, 95%+ statement coverage, 6,000+ conformance tests, and Playwright cross-browser testing. |
-| **[ratchet](https://github.com/ratchet-run/ratchet)** | [![](https://img.shields.io/github/stars/ratchet-run/ratchet?style=flat&label=&color=b58900)](https://github.com/ratchet-run/ratchet/stargazers) | Java | CDI-native Jakarta EE job scheduler — persistent jobs, retries, batches, workflows, human-in-the-loop signals, and operational dashboards. v0.1.1 on Maven Central; docs at [ratchet.run](https://ratchet.run). |
+  | **[ratchet](https://github.com/ratchet-run/ratchet)** | [![](https://img.shields.io/github/stars/ratchet-run/ratchet?style=flat&label=&color=b58900)](https://github.com/ratchet-run/ratchet/stargazers) | Java | CDI-native Jakarta EE job scheduler — persistent jobs, retries, batches, workflows, human-in-the-loop signals, and operational dashboards. v0.1.1 on Maven Central; docs at [ratchet.run](https://ratchet.run). |
   | **[mjml-java](https://github.com/jcputney/mjml-java)** | [![](https://img.shields.io/github/stars/jcputney/mjml-java?style=flat&label=&color=b58900)](https://github.com/jcputney/mjml-java/stargazers) | Java | Pure-Java MJML 4 email renderer. Zero runtime dependencies beyond the JDK, all 31 components, 1,116 tests, golden-file parity with the official Node.js CLI. |
   | **[elearning-module-parser](https://github.com/jcputney/elearning-module-parser)** | [![](https://img.shields.io/github/stars/jcputney/elearning-module-parser?style=flat&label=&color=b58900)](https://github.com/jcputney/elearning-module-parser/stargazers) | Java | Multi-standard eLearning package parser — SCORM 1.2, SCORM 2004, AICC, cmi5, xAPI/TinCan. Rule-based validation architecture. On Maven Central. |
-| **[magika-java](https://github.com/jcputney/magika-java)** | [![](https://img.shields.io/github/stars/jcputney/magika-java?style=flat&label=&color=b58900)](https://github.com/jcputney/magika-java/stargazers) | Java | Dependency-light Java binding for Google's Magika ONNX file-type detector. Clean-room build, parity with the upstream Python, published to Maven Central. |
+  | **[magika-java](https://github.com/jcputney/magika-java)** | [![](https://img.shields.io/github/stars/jcputney/magika-java?style=flat&label=&color=b58900)](https://github.com/jcputney/magika-java/stargazers) | Java | Dependency-light Java binding for Google's Magika ONNX file-type detector. Clean-room build, parity with the upstream Python, published to Maven Central. |
   | **[agent-peer-review](https://github.com/jcputney/agent-peer-review)** | [![](https://img.shields.io/github/stars/jcputney/agent-peer-review?style=flat&label=&color=b58900)](https://github.com/jcputney/agent-peer-review/stargazers) | Claude Code plugin | AI-to-AI peer validation framework. Two AI perspectives catch more issues than one — Claude Code + OpenAI Codex as a structured peer reviewer. |
 
 ---
